@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 import seaborn as sns
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from puli import df1
+from data_cleaning import df1
 
 
 nltk.download('vader_lexicon')
