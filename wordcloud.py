@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import plotly.express as px
 import pandas as pd
-from puli import df1
+from data retrieve import df1
 
 #just in english and spanish
 
